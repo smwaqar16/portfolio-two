@@ -1,0 +1,296 @@
+body {
+    margin: 0px;
+    padding: 0px;
+    background-color: black;
+}
+.COMPANT{
+        background-color: black;
+    color: white;
+    margin: 9px 1px;
+    padding: 9px 11px;
+}
+.green {
+    background-color: rgb(0, 202, 121);
+    width: 68em;
+    height: 6em;
+    margin: -99px 310px;
+}
+button{
+     margin: 42px 19px;
+    float: right;
+    padding: 17px;
+}
+.imagesicmail3 {
+       width: 51px;
+    background: url(images/ic_mail_outline_white_.png) no-repeat;
+    height: 46px;
+    margin: 35px 38px;
+    background-color: deepskyblue;
+    border: none;
+}
+.imagesicmail2 {
+          width: 51px;
+    background: url(images/ic_format_align_justify_white_24dp_2x.png) no-repeat;
+    height: 47px;
+    margin: 34px -32px;
+    background-color: deepskyblue;
+    border: none;
+}
+.imagesicmail1 {
+          width: 51px;
+    background: url(images/ic_error_outline_white_24dp_2x.png) no-repeat;
+    height: 47px;
+    margin: 35px 56px;
+    background-color: red;
+    border: none;
+}
+.topcolor {
+        background-color: rgb(67, 128, 184);
+    width: 304px;
+    height: 9em;
+    margin: 100px 5px;
+}
+
+.waqar{
+       padding: 18px 17px;
+}
+.textwaqar{
+       text-align: end;
+    color: white;
+}
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.consetetur ul{
+    background-color: rgb(67, 128, 184);
+    list-style:none;
+}
+.consetetur ul li{
+       background-color: #202020;
+    border: 2px solid rgb(67, 128, 184);
+    width: 304px;
+    height: 55px;
+    line-height: 52px;
+    text-align: center;
+    position: relative;
+    border-radius: 18px;
+}
+.consetetur ul li a{
+    color: white;
+    text-decoration: none;
+    display: block;
+}
+.consetetur ul li:hover{
+    background-color: rgb(67, 128, 184);
+    border-radius: 8px;
+}
+.bodylafe{
+        background-color: rgb(243, 243, 243);
+    margin: -835px 310px;
+    width: 68em;
+    height: 135em;
+    color: black;
+}
+
+.backgroundcolor {
+       /*color: saddlebrown;*/
+    background-color: rgb(255, 255, 255);
+    width: 64em;
+    margin: -23px 20px;
+    height: 132em;
+}
+.DASHBOARD{
+    margin: 10px;
+      border-bottom: 2px solid #00CA79;
+}
+.dummy{
+   border-bottom: 1px dashed #00a;
+
+}
+ .backcolor1{
+        background-color: rgb(211, 111, 46);
+    width: 17em;
+    height: 8em;
+    margin: 21px    
+ }
+
+.flash {
+    margin: 7em;
+}
+.ZERO{
+        margin: 3px 5em;
+    text-align: center;
+}
+.backcolor2{
+            background-color: rgb(143, 143, 44);
+    width: 17em;
+    height: 8em;
+    margin: -147px 22em;  
+ }
+.power{
+    margin: 6em;
+}
+.CHECK{
+        margin: 7px 63px;
+}
+.icattachmoney{
+     background-color: rgb(255, 47, 113);
+    width: 17em;
+    height: 8em;
+    margin: 19px 44em;
+}
+.attach{
+    margin: 2px 105px;
+}
+.PENDING{
+    margin: 7px 69px;
+}
+.Lorem{
+        background-color: dodgerblue;
+    width: 616px;
+    margin: 10px;
+    height: 228px;
+}
+.ipsum{
+   margin: 46px;
+    color: white;
+    font-size: 21px;
+}
+
+form{
+         margin: -238px 43em;
+}
+
+.Butler{
+       margin:2em 8px;
+    width: 606px;
+    height: 406px;
+    border: 5px solid #000000;
+}
+
+.bordertopsty{
+  width: 19em;
+    height: 34px;
+    border-bottom: 5px solid transparent;
+    background-color: rgb(245, 245, 245);
+    margin: -195px 40em;
+    text-align: center;
+    line-height: 37px;
+}
+
+.Amanna{
+       max-height: 500px;
+    padding: 20px;
+    overflow: visible;
+    border: 1px darkblue;
+}
+
+.Aman{
+            width: 96%;
+    height: auto;
+    padding: 6px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    border-radius: 5px;
+    position: relative;
+    border: 1px solid #6792d5;
+    font-size: 14px;
+
+}
+
+.Aman1{
+            width: 96%;
+    height: auto;
+    padding: 6px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    border-radius: 5px;
+    position: relative;
+    border: 1px solid red;
+    font-size: 14px;
+
+}
+
+.subm{
+    /*margin: 10px;*/
+}
+.borderstyle {
+    width: 270px;
+    height: 34px;
+    border-bottom: 5px solid transparent;
+    background-color: rgb(245, 245, 245);
+    margin: 0px -1px;
+    text-align: center;
+    line-height: 37px;
+}
+.list{
+        background-color: dodgerblue;
+    width: 618px;
+    margin: -32px 10px;
+    height: 10em;
+}
+.beenmoved{
+    margin: 55px 10px;
+    width: 38em;
+    border: 5px solid #000000;
+}
+.tableborder{
+   margin: -28px 11px;
+    /*text-align: center;*/
+  
+}
+.border{
+    margin: 10px;
+}
+.order{
+    width: 50px;
+    text-align: center;
+}
+
+td{
+    width: 134px;
+    text-align: center;   
+}
+.colorred{
+    background-color: red;
+}
+.lightslategray{
+    background-color: rgb(245, 245, 245);
+}
+.Aqua {
+    background-color: rgb(91, 192, 222);
+}
+
+.sem{
+        margin: -14em 22px;
+    border: 1px solid rgb(238, 238, 238);
+    width: 63em;
+}
+
+.Compose{
+    margin: 8em 21px;
+}
+.sem1{
+    margin: -14em 22px;
+    border: 1px solid rgb(238, 238, 238);
+    width: 26em;
+}
+.Please{
+    margin: 15em 25px;
+}
+
+.nput{
+   display: block;
+    width: 100%;
+    height: 34px;
+    padding: 6px 12px;
+    font-size: 14px;
+    line-height: 1.42857143;
+    color: #555;
+    background-color: #fff;
+    background-image: none;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
