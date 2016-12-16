@@ -1,10 +1,10 @@
 body {
-    margin: 0px;
-    padding: 0px;
-    background-color: black;
+    /*margin: 35px -6px;
+    padding: 0px;*/
+    background-color:rgb(32, 32, 32);
 }
 .COMPANT{
-        background-color: black;
+        background-color: rgb(32, 32, 32);
     color: white;
     margin: 9px 1px;
     padding: 9px 11px;
@@ -25,24 +25,28 @@ button{
     background: url(images/ic_mail_outline_white_.png) no-repeat;
     height: 46px;
     margin: 35px 38px;
-    background-color: deepskyblue;
+    background-color: rgb(49, 176, 213);
     border: none;
+        border-radius: 12px;
 }
 .imagesicmail2 {
           width: 51px;
     background: url(images/ic_format_align_justify_white_24dp_2x.png) no-repeat;
     height: 47px;
     margin: 34px -32px;
-    background-color: deepskyblue;
+    background-color: rgb(48, 113, 169);
     border: none;
+        border-radius: 12px;
 }
 .imagesicmail1 {
+    
           width: 51px;
     background: url(images/ic_error_outline_white_24dp_2x.png) no-repeat;
     height: 47px;
     margin: 35px 56px;
-    background-color: red;
+    background-color: rgb(201, 48, 44);
     border: none;
+        border-radius: 12px;
 }
 .topcolor {
         background-color: rgb(67, 128, 184);
@@ -58,24 +62,25 @@ button{
        text-align: end;
     color: white;
 }
+
 *{
     margin: 0px;
     padding: 0px;
 }
 
 .consetetur ul{
-    background-color: rgb(67, 128, 184);
+    background-color: rgb(32, 32, 32);
     list-style:none;
 }
 .consetetur ul li{
-       background-color: #202020;
-    border: 2px solid rgb(67, 128, 184);
+       background-color: rgb(32, 32, 32);
+    border: 2px solid rgb(10, 10, 10);
     width: 304px;
     height: 55px;
     line-height: 52px;
     text-align: center;
     position: relative;
-    border-radius: 18px;
+    border-radius: 1px;;
 }
 .consetetur ul li a{
     color: white;
@@ -83,15 +88,15 @@ button{
     display: block;
 }
 .consetetur ul li:hover{
-    background-color: rgb(67, 128, 184);
+    background-color: rgb(10, 10, 10);
     border-radius: 8px;
 }
 .bodylafe{
         background-color: rgb(243, 243, 243);
     margin: -835px 310px;
     width: 68em;
-    height: 135em;
-    color: black;
+    height: 146em;
+    /*color: black;*/
 }
 
 .backgroundcolor {
@@ -99,21 +104,22 @@ button{
     background-color: rgb(255, 255, 255);
     width: 64em;
     margin: -23px 20px;
-    height: 132em;
+    height: 144em;
 }
 .DASHBOARD{
     margin: 10px;
       border-bottom: 2px solid #00CA79;
 }
 .dummy{
-   border-bottom: 1px dashed #00a;
+   border-bottom: 1px dashed rgb(32, 32, 32);
 
 }
  .backcolor1{
         background-color: rgb(211, 111, 46);
     width: 17em;
     height: 8em;
-    margin: 21px    
+    margin: 21px;    
+        border-radius: 12px;
  }
 
 .flash {
@@ -128,6 +134,7 @@ button{
     width: 17em;
     height: 8em;
     margin: -147px 22em;  
+        border-radius: 12px;
  }
 .power{
     margin: 6em;
@@ -140,6 +147,8 @@ button{
     width: 17em;
     height: 8em;
     margin: 19px 44em;
+      border-radius: 12px;
+    
 }
 .attach{
     margin: 2px 105px;
@@ -152,11 +161,13 @@ button{
     width: 616px;
     margin: 10px;
     height: 228px;
+        border-radius: 12px;
 }
 .ipsum{
-   margin: 46px;
+       margin: 46px;
     color: white;
     font-size: 21px;
+    font-style: italic;
 }
 
 form{
@@ -225,11 +236,65 @@ form{
     text-align: center;
     line-height: 37px;
 }
+.Notifications{
+       text-align: -webkit-left;
+    margin: -1px -22px;
+    color: #31708f;
+    background-color: #d9edf7;
+    border-color: #bce8f1;
+    /*border: 1px solid black;*/
+}
+
+.Followers{
+    /*border: 1px solid black;*/
+    margin: 2px -22px;
+    width: 308px;
+    
+}
+.Followers a {
+        text-align: -webkit-left;
+    font: normal normal normal 14px/1 FontAwesome;
+    height: 27px;
+    text-decoration: none;
+    position: relative;
+    display: block;
+    padding: 6px 0px;
+    margin-bottom: 0px;
+    background-color: #fff;
+    border: 1px solid #ddd;
+    color: black;
+}
+
+.minutes{
+        margin: 69px;
+}
+
+.Alerts{
+            margin: 3px -2px;
+    width: 310px;
+    height: 0px;
+    line-height: 0px;
+    background-color: skyblue;
+    color: white;
+    border-bottom-color: lightslategray;
+}
+.Recent{
+   color: #3c763d;
+    background-color: #dff0d8;
+    border-color: #d6e9c6;
+        margin: 16px -33px;
+}
+.Comments {
+    border-radius: 50%;
+}
+
 .list{
         background-color: dodgerblue;
     width: 618px;
     margin: -32px 10px;
     height: 10em;
+    border-radius: 9px;
+        color: white;
 }
 .beenmoved{
     margin: 55px 10px;
@@ -264,33 +329,62 @@ td{
 }
 
 .sem{
-        margin: -14em 22px;
-    border: 1px solid rgb(238, 238, 238);
-    width: 63em;
+       margin: -108em 3em;
 }
 
 .Compose{
-    margin: 8em 21px;
+    margin: 39em 14px;
 }
 .sem1{
-    margin: -14em 22px;
-    border: 1px solid rgb(238, 238, 238);
-    width: 26em;
+    margin: -77em -40px;
+    
 }
 .Please{
-    margin: 15em 25px;
+        margin: 15em 25px;
+}
+.nput{
+    
+        margin: -15em 1em;
 }
 
-.nput{
-   display: block;
-    width: 100%;
-    height: 34px;
-    padding: 6px 12px;
-    font-size: 14px;
-    line-height: 1.42857143;
-    color: #555;
-    background-color: #fff;
-    background-image: none;
-    border: 1px solid #ccc;
-    border-radius: 4px;
+.nput input{
+        width: 38em;
+    margin: 10px;
+    height: 2em;
+    border: 1px solid grey;
+    border-width: medium;
+}
+.Enter{
+    margin: 10px;
+}
+.PleaseEnter{
+    margin: 10px;
+}
+.Ticket{
+          margin: 0em 63em;
+    width: 181px;
+    height: 11px;
+    line-height: 3px;
+    background-color: rgb(68, 157, 68);
+    border: 1px solid white;
+    color: white;
+    border-color: blue;
+}
+.Important{
+     background-color: #929292;
+    width: 26em;
+    height: 19em;
+    margin: 27em 57em;
+}
+.Important .Issues img{
+        margin: 7px 20px;
+}
+.footer-sec {
+    background-color: black;
+    color: white;
+    height: 61px;
+    padding: -9px 100px;
+    margin: -332px -22px;
+    text-align: center;
+    width: 89em;
 }
